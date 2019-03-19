@@ -1,0 +1,155 @@
+{
+    "shops": [
+        {
+            "shop_id": 36,
+            "shop_bg": "https://s3.mogucdn.com/mlcdn/c45406/180630_5ece5056k14ki1ej9h0age970gf43_1920x150.jpg",
+            "shop_categories": [
+                {
+                    "cat_id": 37,
+                    "cat_title": "全部商品"
+                },
+                {
+                    "cat_id": 38,
+                    "cat_title": "3.16"
+                },
+                {
+                    "cat_id": 39,
+                    "cat_title": "套装"
+                },
+                {
+                    "cat_id": 40,
+                    "cat_title": "外套"
+                },
+                {
+                    "cat_id": 41,
+                    "cat_title": "卫衣"
+                },
+                {
+                    "cat_id": 42,
+                    "cat_title": "连衣裙"
+                },
+                {
+                    "cat_id": 43,
+                    "cat_title": "衬衫/雪纺衫"
+                }
+            ],
+            "good_info":{
+                "big_img": [
+                    {
+                        "big_img_id": 44,
+                        "big_img_url": "https://s3.mogucdn.com/mlcdn/c45406/190310_02gkh2fbbb2lff7ck1kb94b18jbcd_640x960.jpg_468x468.jpg"
+                    },
+                    {
+                        "big_img_id": 45,
+                        "big_img_url": "https://s5.mogucdn.com/mlcdn/c45406/190310_78ad3jd9ad5hccj6f6l3ie42gkk1k_750x1078.jpg_468x468.jpg"
+                    }
+                ],
+                "good_title": "闺蜜装春装新款韩版chic原宿风bf个性破洞V领前短后长宽松休闲长袖卫衣学生长袖上衣",
+                "good_old_price": 99.90,
+                "good_sell_price": 64.93,
+                "good_color": [
+                    {
+                        "good_color_id": 46,
+                        "good_color_type": "黑色",
+                        "good_color_url": "https://s5.mogucdn.com/mlcdn/c45406/190310_7gf7388d901di4ij72bi57i7hl1ge_640x960.jpg_100x100.jpg"
+                    },
+                    {
+                        "good_color_id": 47,
+                        "good_color_type": "红色",
+                        "good_color_url": "https://s5.mogucdn.com/mlcdn/c45406/190310_1ab29l9ib200kk8d64967b7dg8lk6_640x960.jpg_100x100.jpg"
+                    }
+                ],
+                "good_size": [
+                    {
+                        "good_size_id": 48,
+                        "good_size_info": "M"
+                    },
+                    {
+                        "good_size_id": 49,
+                        "good_size_info": "L"
+                    },
+                    {
+                        "good_size_id": 50,
+                        "good_size_info": "XL"
+                    },
+                    {
+                        "good_size_id": 51,
+                        "good_size_info": "XXL"
+                    }
+                ]
+            }
+        },
+        {
+            "shop_id": 52,
+            "shop_bg": "https://s10.mogucdn.com/mlcdn/c45406/180411_2ff0j9ed072h69l372h2l5f4jjb7e_3840x300.png",
+            "shop_categories": [
+                {
+                    "cat_id": 53,
+                    "cat_title": "全部商品"
+                },
+                {
+                    "cat_id": 54,
+                    "cat_title": "3.16"
+                },
+                {
+                    "cat_id": 55,
+                    "cat_title": "上装"
+                },
+                {
+                    "cat_id": 56,
+                    "cat_title": "裤装"
+                },
+                {
+                    "cat_id": 57,
+                    "cat_title": "裙装"
+                },
+                {
+                    "cat_id": 58,
+                    "cat_title": "外套"
+                },
+                {
+                    "cat_id": 59,
+                    "cat_title": "时尚外套"
+                }
+            ],
+            "good_info":{
+                "big_img": [
+                    {
+                        "big_img_id": 60,
+                        "big_img_url": "https://s11.mogucdn.com/mlcdn/c45406/190308_59i9575gbcc47g27f5k2g7ej7flk1_750x978.jpg_468x468.jpg"
+                    },
+                    {
+                        "big_img_id": 61,
+                        "big_img_url": "https://s11.mogucdn.com/mlcdn/c45406/190308_794h9fg88gbbfg3abb6hkfabi1c15_750x883.jpg_468x468.jpg"
+                    }
+                ],
+                "good_title": "2019春秋新款慵懒风假两件长袖卫衣女新款韩版宽松学生松垮垮连帽ulzzang外套",
+                "good_old_price": 78.58,
+                "good_sell_price": 55.00,
+                "good_color": [
+                    {
+                        "good_color_id": 62,
+                        "good_color_type": "黑色",
+                        "good_color_url": "https://s11.mogucdn.com/mlcdn/c45406/190308_59i9575gbcc47g27f5k2g7ej7flk1_750x978.jpg_100x100.jpg"
+                    },
+                    {
+                        "good_color_id": 63,
+                        "good_color_type": "红色",
+                        "good_color_url": "https://s11.mogucdn.com/mlcdn/c45406/190308_794h9fg88gbbfg3abb6hkfabi1c15_750x883.jpg_100x100.jpg"
+                    },
+                    {
+                        "good_color_id": 64,
+                        "good_color_type": "西瓜红",
+                        "good_color_url": "https://s11.mogucdn.com/mlcdn/c45406/190308_3j7ch899kfjhbgc0c5da3jah6bih5_750x733.jpg_100x100.jpg"
+                    }
+                ],
+                "good_size": [
+                    {
+                        "good_size_id": 65,
+                        "good_size_info": "均码"
+                    }
+                ]
+            }
+        }
+    ]
+}

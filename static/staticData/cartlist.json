@@ -1,0 +1,33 @@
+{
+    "shopcart_id": 99,
+    "shopcartlist":[
+        {
+            "shop|_id": 100,
+            "goods_url": "https://s5.mogucdn.com/mlcdn/c45406/190310_7gf7388d901di4ij72bi57i7hl1ge_640x960.jpg_100x100.jpg",
+            "goods_title": "闺蜜装春装新款韩版chic原宿风bf个性破洞V领前短后长宽松休闲长袖卫衣学生长袖上衣 ",
+            "goods_color": "红色",
+            "goods_size": "XL",
+            "price": 69.93,
+            "count": 5
+        },
+        {
+            "shop|_id": 101,
+            "goods_url": "https://s11.mogucdn.com/mlcdn/c45406/190308_59i9575gbcc47g27f5k2g7ej7flk1_750x978.jpg_100x100.jpg",
+            "goods_title": " 2019春秋新款慵懒风假两件长袖卫衣女新款韩版宽松学生松垮垮连帽ulzzang外套  ",
+            "goods_color": "黑色",
+            "goods_size": "均码",
+            "price": 55.00,
+            "count": 1
+        },
+        {
+            "shop|_id": 102,
+            "goods_url": "https://s11.mogucdn.com/mlcdn/c45406/190304_35dal38jf373f290jb3c1jh200bf3_800x800.jpg_100x100.jpg",
+            "goods_title": " 拼色卫衣女2019春装新款韩版宽松拉链ins超火的上衣学生长袖慵懒风chic春季外套   ",
+            "goods_color": "灰色",
+            "goods_size": "XL",
+            "price": 67.99,
+            "count": 8
+        }
+    
+    ]
+}

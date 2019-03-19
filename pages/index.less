@@ -1,0 +1,108 @@
+.slider {
+    width: 100%;
+    .slider_img {
+        width: 100%;
+        height: 400px;
+    }
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    .goods_cat {
+        margin-top: 40px;
+        border-left: 8px solid #8fabff;
+        span {
+            font-weight: 700;
+            color: #333;
+            font-size: 20px;
+            margin: 0 25px 0 8px;
+            vertical-align: middle;
+        }
+        a {
+            font-size: 14px;
+            vertical-align: middle;
+            padding: 0 20px;
+            border-right: 1px solid #999;
+            &:hover {
+                color: #ff4466;
+            }
+        }
+    }
+    .goods {
+        margin-top: 25px;
+        li {
+            width: 220px;
+            overflow: hidden;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            float: left;
+            margin-right: 25px;
+            margin-bottom: 25px;
+            position: relative;
+            &:nth-child(5n) {
+                margin-right: 0;
+            }
+            &:hover {
+                border: 1px solid #ff4466; 
+                box-shadow: 0 0 3px #ff4466;
+                &::before {
+                    content: '找相似';
+                    display: block;
+                    width: 100%;
+                    height: 22px;
+                    line-height: 22px;
+                    position: absolute;
+                    top: 272px;
+                    left: 0;
+                    background: rgba(255, 68, 102, 0.4);
+                    font-size: 14px;
+                    color: #fff;
+                    text-align: center;                   
+                }
+            }
+            a {
+                display: block;
+                img {
+                    width: 220px;
+                    height: 293.5px;
+                }
+                .title {
+                    display: -webkit-box;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    -webkit-line-clamp: 2;
+                    -webkit-box-orient: vertical;
+                    padding: 5px 10px 0;
+                    line-height: 22px;
+                    font-size: 14px;
+                    color: #666;
+                }
+                .info {
+                    padding: 0 10px;
+                    line-height: 30px;
+                    .sell_price {
+                        font-size: 16px;
+                        color: #333;
+                        font-weight: 700;
+                    }
+                    .old_price {
+                        font-size: 14px;
+                        color: #666;
+                        text-decoration-line: line-through;
+                        margin-left: 6px;
+                        line-height: 30px;
+                    }
+                    .likes {
+                        float: right;
+                        font-size: 12px;
+                        padding-left: 10px;
+                    }
+                    .icon_like {
+                        margin-right: 5px;
+                    }
+                }
+                
+            }
+        }
+    }
+}

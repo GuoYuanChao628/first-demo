@@ -1,0 +1,225 @@
+{
+    "status": 0,
+    "categoris": [
+        {
+            "category_id": 3,
+            "title": "女装",
+            "subclass": [
+                {
+                    "subclass_id": 4,
+                    "title": "卫衣"
+                },
+                {
+                    "subclass_id": 5,
+                    "title": "T恤"
+                },
+                {
+                    "subclass_id": 6,
+                    "title": "连衣裙"
+                },
+                {
+                    "subclass_id": 7,
+                    "title": "牛仔外套"
+                },
+                {
+                    "subclass_id": 8,
+                    "title": "牛仔裤"
+                },
+                {
+                    "subclass_id": 9,
+                    "title": "宽松毛衣"
+                }
+            ],
+            "goods":[
+                {
+                    "good_id": 10,
+                    "title": "闺蜜装春装新款韩版chic原宿风bf个性破洞V领前短后长宽松休闲长袖卫衣学生长袖上衣",
+                    "sell_price": 64.93,
+                    "old_price": 99.90,
+                    "like": 88,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190310_02gkh2fbbb2lff7ck1kb94b18jbcd_640x960.jpg"
+                },
+                {
+                    "good_id": 11,
+                    "title": "2019春秋新款慵懒风假两件长袖卫衣女新款韩版宽松学生松垮垮连帽ulzzang外套",
+                    "sell_price": 55,
+                    "old_price": 78.58,
+                    "like": 66,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190308_367l6h1c1i3j75cd3iibl5k854f98_640x960.jpg"
+                },
+                {
+                    "good_id": 12,
+                    "title": "拼色卫衣女2019春装新款韩版宽松拉链ins超火的上衣学生长袖慵懒风chic春季外套",
+                    "sell_price": 63.1,
+                    "old_price": 97.14,
+                    "like": 55,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190304_8dg7ll7gci1ej0610dic577a13l43_640x960.jpg"
+                },
+                {
+                    "good_id": 13,
+                    "title": "卫衣女连帽2018新款春装韩版潮学生bf宽松ins超火的薄款长袖上衣",
+                    "sell_price": 38.8,
+                    "old_price": 78.6,
+                    "like": 12,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190214_5if5e9h298bjkd845j26d81ik26ae_640x960.jpg"
+                },
+                {
+                    "good_id": 14,
+                    "title": "2019春季新款韩版学院风小清新潮修身显瘦长袖连帽套头百搭字母数字学生薄款短款卫衣上衣外套",
+                    "sell_price": 28.8,
+                    "old_price": 78.6,
+                    "like": 14,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190217_5fca1h3e5gkgc0cee0j4bgj968ah4_640x960.jpg"
+                },
+                {
+                    "good_id": 15,
+                    "title": "2019春季上新新款韩版连帽加绒套头卫衣女学生宽松灯笼长袖百搭上衣潮",
+                    "sell_price": 78.8,
+                    "old_price": 98.6,
+                    "like": 56,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/181008_52ie0693411ghgelf76lhc0hk8037_640x960.jpg"
+                },
+                {
+                    "good_id": 16,
+                    "title": "假两件卫衣女破洞字母圆领宽松灰色ins外套韩版chic学生套头长袖百搭慵懒风潮牌上衣",
+                    "sell_price": 98.8,
+                    "old_price": 198.6,
+                    "like": 96,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190115_4f32l9bc29i81e08ea49j843cdee9_800x800.jpg"
+                },
+                {
+                    "good_id": 17,
+                    "title": "韩版2019春季新款新款连帽卫衣女抽绳宽松学生百搭休闲显瘦口袋可爱小鹿刺绣花套头秋装外套潮",
+                    "sell_price": 58.8,
+                    "old_price": 198.6,
+                    "like": 96,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/776a41/190316_300e86idh1ij7153g8gg58341jd9j_750x1125.jpg"
+                },
+                {
+                    "good_id": 18,
+                    "title": "2019春季新款鹅黄色卫衣女柠檬黄色套头宽松bf学生纯色糖果色长袖ins超火圆领上衣外套",
+                    "sell_price": 98.8,
+                    "old_price": 298.6,
+                    "like": 966,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190103_1kg6abfhh8hl6b4j46lc4045be128_640x960.jpg"
+                },
+                {
+                    "good_id": 19,
+                    "title": "2019新款复古格子宽松显瘦半高领呢子韩版学生大码外套套头卫衣女宽松",
+                    "sell_price": 188.8,
+                    "old_price": 198.6,
+                    "like": 96,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/180306_717b8fhd9h5d7f5cga4f3996ia5d4_640x960.jpg"
+                }
+            ]
+        },
+        {
+            "category_id": 20,
+            "title": "女鞋&包包",
+            "subclass": [
+                {
+                    "subclass_id": 21,
+                    "title": "靴子"
+                },
+                {
+                    "subclass_id": 22,
+                    "title": "单鞋"
+                },
+                {
+                    "subclass_id": 23,
+                    "title": "运动鞋"
+                },
+                {
+                    "subclass_id": 24,
+                    "title": "休闲鞋"
+                },
+                {
+                    "subclass_id": 25,
+                    "title": "帆布鞋"
+                }
+            ],
+            "goods": [
+                {
+                    "good_id": 26,
+                    "title": "2019新款韩版百搭小白鞋女春季运动板鞋女学生休闲鞋厚底透气系带时尚平底鞋女学院风纯色潮鞋",
+                    "sell_price": 69.99,
+                    "old_price": 99.99,
+                    "like": 13,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190306_739akdk04e8cffkkd14e1a70ilf0l_640x960.jpg"
+                },
+                {
+                    "good_id": 27,
+                    "title": "杨幂同款女鞋2019春季新款炫彩亮片增高小白鞋新款女百搭韩版厚底休闲鞋女",
+                    "sell_price": 8.99,
+                    "old_price": 129.99,
+                    "like": 23,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190306_726jgljadi73b5fc60lkl13578j9g_640x960.jpg"
+                },
+                {
+                    "good_id": 28,
+                    "title": "快手热门杨幂同款网红松糕女鞋休闲小白鞋2019春季新款炫彩百搭松糕鞋学生拼色单鞋",
+                    "sell_price": 88,
+                    "old_price": 198,
+                    "like": 23,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190313_2lk17ihbh6g11l8j79l6169437i1e_640x960.jpg"
+                },
+                {
+                    "good_id": 29,
+                    "title": "内增高小白鞋女2019春季新款网红ins超火智熏鞋韩版厚底百搭松糕白鞋学生休闲鞋子",
+                    "sell_price": 87,
+                    "old_price": 189,
+                    "like": 55,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/190311_7aaa314c59786kfca0ike9gh58ie0_640x960.jpg"
+                },
+                {
+                    "good_id": 30,
+                    "title": "小白鞋女2019春季新款百搭护士鞋平底浅口一脚蹬懒人鞋软底单鞋女",
+                    "sell_price": 68,
+                    "old_price": 98,
+                    "like": 45,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/55cf19/190309_7036ih78dl9id251h44d3e3f1bbkf_640x960.jpg"
+                },
+                {
+                    "good_id": 31,
+                    "title": "蓓尔春秋季新款纯色小白鞋女韩版明星同款极简百搭女鞋子透气超纤皮面运动休闲鞋街拍热卖学生板鞋",
+                    "sell_price": 58,
+                    "old_price": 98,
+                    "like": 85,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/181031_165a905k833befd9ei9ifj9ei6kb5_640x960.jpg"
+                },
+                {
+                    "good_id": 32,
+                    "title": "内增高19款女鞋春夏季新款韩版显瘦厚底学生休闲鞋女增高鞋子",
+                    "sell_price": 58.7,
+                    "old_price": 98.9,
+                    "like": 85,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/171213_265775168f53hl64ea3ek31d4c17c_640x960.jpg"
+                },
+                {
+                    "good_id": 33,
+                    "title": "ins超好看的老爹鞋女春季新款韩版休闲鞋学生百搭低帮系带厚底增高时尚防滑户外运动跑步鞋子",
+                    "sell_price": 98.7,
+                    "old_price": 128.9,
+                    "like": 85,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/c45406/181031_36edkk1955d2he6agbd44b5650794_640x960.jpg"
+                },
+                {
+                    "good_id": 34,
+                    "title": "小红人2019春季新款圆头牛皮休闲鞋低跟橡胶底低帮平底系带百搭女鞋子板鞋W1911",
+                    "sell_price": 58.7,
+                    "old_price": 98.9,
+                    "like": 85,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/776a41/190312_3el08k3gh38g8ecb86baa6k77c6fi_750x1125.jpg"
+                },
+                {
+                    "good_id": 35,
+                    "title": "浅口小白鞋女2019春新款百搭护士鞋平底简约一脚蹬孕妇软底休闲鞋女",
+                    "sell_price": 78.7,
+                    "old_price": 128.9,
+                    "like": 5,
+                    "img_url": "https://s11.mogucdn.com/mlcdn/776a41/190312_8h44l97642f2300cl52d70g8h3bf1_750x1125.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "sliderlist": [
+        {
+            "id": 1,
+            "title": "第一页",
+            "img_url": "https://s10.mogucdn.com/mlcdn/c45406/190308_009hje2f73d0kd9f6g4k5lej4ag40_1134x440.jpg"
+        },
+        {
+            "id": 2,
+            "title": "第二页",
+            "img_url": "https://s10.mogucdn.com/mlcdn/c45406/190308_50ced9bjk3c473d18h57cj8f4ec1g_1134x440.jpg"
+        },
+        {
+            "id": 3,
+            "title": "第三页",
+            "img_url": "https://s10.mogucdn.com/mlcdn/c45406/190308_6c5hcdegk93fc1l40d400ccj70d0d_1134x440.png"
+        }
+    ]
+}
