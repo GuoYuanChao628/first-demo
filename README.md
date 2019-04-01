@@ -6,7 +6,7 @@
 
 - 启动项目
 
-  `yarn run bulid`
+  `yarn run build`
   `yarn run start`
 
 - 项目端口
