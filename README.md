@@ -6,11 +6,12 @@
 
 - 启动项目
 
-  `yarn dev`
+  `yarn run bulid`
+  `yarn run start`
 
 - 项目端口
 
-  `localhost:8080`
+  `localhost:8090`
 
 ### 技术栈
 
